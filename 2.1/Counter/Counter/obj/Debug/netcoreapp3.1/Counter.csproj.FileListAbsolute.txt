@@ -1,0 +1,12 @@
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/bin/Debug/netcoreapp3.1/Counter.deps.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/bin/Debug/netcoreapp3.1/Counter.runtimeconfig.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/bin/Debug/netcoreapp3.1/Counter.runtimeconfig.dev.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/bin/Debug/netcoreapp3.1/Counter.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/bin/Debug/netcoreapp3.1/Counter.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/obj/Debug/netcoreapp3.1/Counter.csprojAssemblyReference.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/obj/Debug/netcoreapp3.1/Counter.AssemblyInfoInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/obj/Debug/netcoreapp3.1/Counter.AssemblyInfo.cs
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/obj/Debug/netcoreapp3.1/Counter.csproj.CoreCompileInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/obj/Debug/netcoreapp3.1/Counter.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/obj/Debug/netcoreapp3.1/Counter.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/obj/Debug/netcoreapp3.1/Counter.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRAjFy9QJaEXwWDrt+kNZ+sk17g+IFaZgObvyLWiIo9KTtjnYuicvsHiplgHXVBb2SZVrlCuj+uM0LsEkxkNLA==",
+  "success": true,
+  "projectFilePath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.1/Counter/Counter/Counter.csproj",
+  "expectedPackageFiles": [
+    "/Users/razbasnet/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/razbasnet/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/razbasnet/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
