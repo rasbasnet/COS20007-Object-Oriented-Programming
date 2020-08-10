@@ -1,0 +1,12 @@
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.deps.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.runtimeconfig.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.runtimeconfig.dev.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/bin/Debug/netcoreapp3.1/ShapeDrawer.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.csprojAssemblyReference.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.AssemblyInfo.cs
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/obj/Debug/netcoreapp3.1/ShapeDrawer.genruntimeconfig.cache
