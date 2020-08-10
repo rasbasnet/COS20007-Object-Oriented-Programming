@@ -1,0 +1,13 @@
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/bin/Debug/Tests.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/bin/Debug/Tests.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/bin/Debug/nunit.framework.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/bin/Debug/Swin-Adventure.exe
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/bin/Debug/Swin-Adventure.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/bin/Debug/Swin-Adventure.exe.config
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/bin/Debug/nunit.framework.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/bin/Debug/nunit.framework.xml
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/obj/Debug/Tests.csprojAssemblyReference.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/obj/Debug/Tests.csproj.CopyComplete
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/obj/Debug/Tests.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Tests/obj/Debug/Tests.pdb

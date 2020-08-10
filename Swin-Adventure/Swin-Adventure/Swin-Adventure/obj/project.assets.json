@@ -1,0 +1,48 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": []
+  },
+  "packageFolders": {
+    "/Users/razbasnet/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/Swin-Adventure.csproj",
+      "projectName": "Swin-Adventure",
+      "projectPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/Swin-Adventure.csproj",
+      "packagesPath": "/Users/razbasnet/.nuget/packages/",
+      "outputPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/razbasnet/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.7.20366.6/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Debug/netcoreapp3.1/Swin-Adventure.deps.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Debug/netcoreapp3.1/Swin-Adventure.runtimeconfig.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Debug/netcoreapp3.1/Swin-Adventure.runtimeconfig.dev.json
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Debug/netcoreapp3.1/Swin-Adventure.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Debug/netcoreapp3.1/Swin-Adventure.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/netcoreapp3.1/Swin-Adventure.csprojAssemblyReference.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/netcoreapp3.1/Swin-Adventure.AssemblyInfoInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/netcoreapp3.1/Swin-Adventure.AssemblyInfo.cs
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/netcoreapp3.1/Swin-Adventure.csproj.CoreCompileInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/netcoreapp3.1/Swin-Adventure.dll
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/netcoreapp3.1/Swin-Adventure.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/netcoreapp3.1/Swin-Adventure.genruntimeconfig.cache

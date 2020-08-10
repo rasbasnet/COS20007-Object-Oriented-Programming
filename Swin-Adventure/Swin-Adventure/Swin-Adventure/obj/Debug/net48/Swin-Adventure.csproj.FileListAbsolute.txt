@@ -1,0 +1,9 @@
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Debug/net48/Swin-Adventure.exe.config
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Debug/net48/Swin-Adventure.exe
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Debug/net48/Swin-Adventure.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/net48/Swin-Adventure.csprojAssemblyReference.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/net48/Swin-Adventure.AssemblyInfoInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/net48/Swin-Adventure.AssemblyInfo.cs
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/net48/Swin-Adventure.csproj.CoreCompileInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/net48/Swin-Adventure.exe
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Debug/net48/Swin-Adventure.pdb
