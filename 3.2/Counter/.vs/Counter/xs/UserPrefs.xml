@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{DF4A0864-C9FB-43B7-A2FA-B014EE6E0E3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Counter/Counter.cs">
+    <Files>
+      <File FileName="Counter/Clock.cs" Line="9" Column="32" />
+      <File FileName="Counter/Program.cs" Line="14" Column="14" />
+      <File FileName="Counter/Count.cs" Line="39" Column="26" />
+      <File FileName="Tests/ClockTest.cs" Line="10" Column="1" />
+      <File FileName="Tests/Test.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Counter" expanded="True">
+            <Node name="Counter" expanded="True">
+              <Node name="Counter.cs" selected="True" />
+            </Node>
+            <Node name="Tests" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Counter" expanded="True" selected="True">
+            <Node name="Tests" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="ClockTest" expanded="True" />
+                <Node name="CounterTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Counter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
