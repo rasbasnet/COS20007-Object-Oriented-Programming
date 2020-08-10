@@ -36,6 +36,7 @@
     <Compile Include="InventoryTest.cs" />
     <Compile Include="ItemTests.cs" />
     <Compile Include="PlayerTests.cs" />
+    <Compile Include="BagTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

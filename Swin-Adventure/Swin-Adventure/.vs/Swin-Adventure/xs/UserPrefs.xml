@@ -1,26 +1,24 @@
 ﻿<Properties StartupConfiguration="{53ED7B9D-A2B4-4A5B-9E2F-05F4E0F78648}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Swin-Adventure/Bag.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/BagTests.cs">
     <Files>
-      <File FileName="Swin-Adventure/GameObject.cs" Line="23" Column="30" />
-      <File FileName="Swin-Adventure/Program.cs" />
-      <File FileName="Swin-Adventure/IdentifiableObject.cs" />
-      <File FileName="Swin-Adventure/Player.cs" />
-      <File FileName="Swin-Adventure/Inventory.cs" />
-      <File FileName="Swin-Adventure/Item.cs" />
-      <File FileName="Tests/InventoryTest.cs" />
-      <File FileName="Tests/PlayerTests.cs" />
-      <File FileName="Tests/ItemTests.cs" Line="15" Column="10" />
-      <File FileName="Swin-Adventure/Bag.cs" Line="5" Column="6" />
+      <File FileName="Swin-Adventure/GameObject.cs" Line="23" Column="21" />
+      <File FileName="Swin-Adventure/Inventory.cs" Line="24" Column="25" />
+      <File FileName="Swin-Adventure/Item.cs" Line="8" Column="1" />
+      <File FileName="Tests/InventoryTest.cs" Line="30" Column="1" />
+      <File FileName="Tests/PlayerTests.cs" Line="24" Column="54" />
+      <File FileName="Tests/ItemTests.cs" Line="1" Column="1" />
+      <File FileName="Swin-Adventure/Bag.cs" Line="18" Column="49" />
+      <File FileName="Tests/BagTests.cs" Line="41" Column="36" />
+      <File FileName="Swin-Adventure/Player.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Swin-Adventure" expanded="True">
-            <Node name="Swin-Adventure" expanded="True">
-              <Node name="Bag.cs" selected="True" />
-            </Node>
+            <Node name="Swin-Adventure" expanded="True" />
             <Node name="Tests" expanded="True">
               <Node name="References" expanded="True" />
+              <Node name="BagTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -29,7 +27,9 @@
         <State name="__root__">
           <Node name="Swin-Adventure" expanded="True" selected="True">
             <Node name="Tests" expanded="True">
-              <Node name="Tests" expanded="True" />
+              <Node name="Tests" expanded="True">
+                <Node name="BagTests" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
