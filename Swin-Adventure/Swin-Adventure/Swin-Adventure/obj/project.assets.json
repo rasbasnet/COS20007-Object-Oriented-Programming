@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/Swin-Adventure.csproj",
+      "projectUniqueName": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/Swin-Adventure.csproj",
       "projectName": "Swin-Adventure",
-      "projectPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/Swin-Adventure.csproj",
+      "projectPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/Swin-Adventure.csproj",
       "packagesPath": "/Users/razbasnet/.nuget/packages/",
-      "outputPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/",
+      "outputPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/razbasnet/.config/NuGet/NuGet.Config"
