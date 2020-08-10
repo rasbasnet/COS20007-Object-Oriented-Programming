@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Swin_Adventure
 {
-    public class Bag : Item
+    public class Bag : Item, I_Have_Inventory
     {
         private Inventory _inventory;
         public Bag(string[] ids, string name, string desc) : base(ids, name, desc)

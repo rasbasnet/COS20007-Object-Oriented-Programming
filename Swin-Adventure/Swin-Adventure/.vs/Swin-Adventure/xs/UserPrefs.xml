@@ -1,24 +1,24 @@
 ﻿<Properties StartupConfiguration="{53ED7B9D-A2B4-4A5B-9E2F-05F4E0F78648}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/BagTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Swin-Adventure/I Have Inventory.cs">
     <Files>
       <File FileName="Swin-Adventure/GameObject.cs" Line="23" Column="21" />
-      <File FileName="Swin-Adventure/Inventory.cs" Line="24" Column="25" />
-      <File FileName="Swin-Adventure/Item.cs" Line="8" Column="1" />
-      <File FileName="Tests/InventoryTest.cs" Line="30" Column="1" />
-      <File FileName="Tests/PlayerTests.cs" Line="24" Column="54" />
-      <File FileName="Tests/ItemTests.cs" Line="1" Column="1" />
-      <File FileName="Swin-Adventure/Bag.cs" Line="18" Column="49" />
-      <File FileName="Tests/BagTests.cs" Line="41" Column="36" />
-      <File FileName="Swin-Adventure/Player.cs" Line="18" Column="1" />
+      <File FileName="Tests/BagTests.cs" Line="73" Column="1" />
+      <File FileName="Swin-Adventure/Player.cs" Line="4" Column="55" />
+      <File FileName="Swin-Adventure/Look Command.cs" Line="23" Column="23" />
+      <File FileName="Swin-Adventure/Command.cs" Line="13" Column="6" />
+      <File FileName="Swin-Adventure/IdentifiableObject.cs" Line="1" Column="1" />
+      <File FileName="Swin-Adventure/I Have Inventory.cs" Line="7" Column="60" />
+      <File FileName="Swin-Adventure/Bag.cs" Line="4" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Swin-Adventure" expanded="True">
-            <Node name="Swin-Adventure" expanded="True" />
+            <Node name="Swin-Adventure" expanded="True">
+              <Node name="I Have Inventory.cs" selected="True" />
+            </Node>
             <Node name="Tests" expanded="True">
               <Node name="References" expanded="True" />
-              <Node name="BagTests.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Swin_Adventure
 {
-    public class Player : GameObject
+    public class Player : GameObject, I_Have_Inventory
     {
         private Inventory _inventory;
         public Player(string name, string desc) : base(new string[] {"me", "inventory"}, name, desc)
