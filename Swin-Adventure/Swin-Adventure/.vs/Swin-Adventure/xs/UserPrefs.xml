@@ -1,34 +1,37 @@
 ﻿<Properties StartupConfiguration="{53ED7B9D-A2B4-4A5B-9E2F-05F4E0F78648}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Swin-Adventure/I Have Inventory.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/LookCommandTests.cs">
     <Files>
-      <File FileName="Swin-Adventure/GameObject.cs" Line="23" Column="21" />
-      <File FileName="Tests/BagTests.cs" Line="73" Column="1" />
-      <File FileName="Swin-Adventure/Player.cs" Line="4" Column="55" />
-      <File FileName="Swin-Adventure/Look Command.cs" Line="23" Column="23" />
+      <File FileName="Swin-Adventure/GameObject.cs" Line="25" Column="16" />
+      <File FileName="Swin-Adventure/Player.cs" Line="7" Column="86" />
+      <File FileName="Tests/BagTests.cs" Line="18" Column="1" />
+      <File FileName="Tests/LookCommandTests.cs" Line="99" Column="106" />
+      <File FileName="Swin-Adventure/Look Command.cs" Line="21" Column="49" />
+      <File FileName="Swin-Adventure/Program.cs" Line="23" Column="79" />
       <File FileName="Swin-Adventure/Command.cs" Line="13" Column="6" />
       <File FileName="Swin-Adventure/IdentifiableObject.cs" Line="1" Column="1" />
-      <File FileName="Swin-Adventure/I Have Inventory.cs" Line="7" Column="60" />
-      <File FileName="Swin-Adventure/Bag.cs" Line="4" Column="46" />
+      <File FileName="Swin-Adventure/I Have Inventory.cs" Line="1" Column="1" />
+      <File FileName="Swin-Adventure/Bag.cs" Line="1" Column="1" />
+      <File FileName="Swin-Adventure/Inventory.cs" Line="5" Column="2" />
+      <File FileName="Tests/PlayerTests.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Swin-Adventure" expanded="True">
-            <Node name="Swin-Adventure" expanded="True">
-              <Node name="I Have Inventory.cs" selected="True" />
-            </Node>
+            <Node name="Swin-Adventure" expanded="True" />
             <Node name="Tests" expanded="True">
-              <Node name="References" expanded="True" />
+              <Node name="LookCommandTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Swin-Adventure" expanded="True" selected="True">
+          <Node name="Swin-Adventure" expanded="True">
             <Node name="Tests" expanded="True">
               <Node name="Tests" expanded="True">
-                <Node name="BagTests" expanded="True" />
+                <Node name="BagTests" expanded="True" selected="True" />
+                <Node name="PlayerTests" expanded="True" />
               </Node>
             </Node>
           </Node>

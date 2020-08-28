@@ -17,6 +17,10 @@ namespace Swin_Adventure
             Console.WriteLine(me.Locate("sword").FirstId());
             Console.WriteLine("Inventory Items\n" + me.FullDescription);
 
+
+            Look_Command look = new Look_Command();
+
+            Console.WriteLine(look.Execute(me, new string[] { "look", "at", "inventory" }));
         }
     }
 }
