@@ -1,13 +1,24 @@
 ﻿<Properties StartupConfiguration="{F611FCDF-3F3B-48D7-927E-A3AC004E14A8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Player.cs">
     <Files>
-      <File FileName="Program.cs" Line="3" Column="22" />
+      <File FileName="Program.cs" Line="47" Column="19" />
+      <File FileName="Look Command.cs" Line="11" Column="39" />
+      <File FileName="Command.cs" Line="1" Column="1" />
+      <File FileName="IdentifiableObject.cs" Line="1" Column="1" />
+      <File FileName="GameObject.cs" Line="1" Column="1" />
+      <File FileName="Inventory.cs" Line="10" Column="1" />
+      <File FileName="I Have Inventory.cs" Line="4" Column="38" />
+      <File FileName="Location.cs" Line="22" Column="58" />
+      <File FileName="Player.cs" Line="30" Column="14" />
+      <File FileName="Item.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Swin-Adventure" expanded="True">
-            <Node name="Swin-Adventure" expanded="True" selected="True" />
+            <Node name="Swin-Adventure" expanded="True">
+              <Node name="Player.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

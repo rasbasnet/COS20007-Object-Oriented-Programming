@@ -6,21 +6,56 @@ namespace Swin_Adventure
     {
         static void Main(string[] args)
         {
-            Player me = new Player("me", "yes");
-            Item sword = new Item(new string[] { "sword" }, "sword", "black blade");
-            Item shovel = new Item(new string[] { "bronze shovel" }, "shovel", "this is a....");
 
-            me.Inventory.Put(sword);
+            Console.WriteLine("Welcome to Swin Adventure\n");
+
+            Console.WriteLine("What is your name?");
+            string name = Console.ReadLine();
+
+            Console.WriteLine("Describe yourself: ");
+            string description = Console.ReadLine();
+
+            Player me = new Player(name, description);
+
+            Item sword = new Item(new string[] { "sword" }, "sword", "black blade :|");
+            Location lake = new Location(new string[] { "location", "lake" }, "Lake", "Frozen blue lake spans across the Sivon Lands");
+            lake.Inventory.Put(sword);
+
+            Item shovel = new Item(new string[] { "shovel" }, "bronze shovel", "this is a.... shovel");
+
             me.Inventory.Put(shovel);
+            me.Location = lake;
+
+            Bag bag = new Bag(new string[] { "bag", "BAGGGG" }, "Bag", "this yeah woah yeah is a bag");
 
 
-            Console.WriteLine(me.Locate("sword").FirstId());
-            Console.WriteLine("Inventory Items\n" + me.FullDescription);
+            Item gun = new Item(new string[] { "gun" }, "big gun", "this is a.... gun boom boom");
 
+            me.Inventory.Put(bag);
+            bag.Inventory.Put(gun);
 
             Look_Command look = new Look_Command();
 
-            Console.WriteLine(look.Execute(me, new string[] { "look", "at", "inventory" }));
+            string command;
+            bool ongoing = true;
+            while (ongoing)
+            {
+                Console.Write("Command: ");
+                command = Console.ReadLine();
+                if (command.ToLower() != "end")
+                {
+                    Console.WriteLine(look.Execute(me, command.Split()));
+                } else
+                {
+                    Console.WriteLine("Exiting...");
+                    ongoing = false;
+                }
+
+            }
+
+
+
+
         }
     }
 }

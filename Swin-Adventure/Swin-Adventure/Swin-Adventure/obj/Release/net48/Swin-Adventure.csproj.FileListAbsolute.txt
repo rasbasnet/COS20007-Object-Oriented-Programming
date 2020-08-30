@@ -1,0 +1,8 @@
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Release/net48/Swin-Adventure.exe.config
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Release/net48/Swin-Adventure.exe
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/bin/Release/net48/Swin-Adventure.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Release/net48/Swin-Adventure.AssemblyInfoInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Release/net48/Swin-Adventure.AssemblyInfo.cs
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Release/net48/Swin-Adventure.csproj.CoreCompileInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Release/net48/Swin-Adventure.exe
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/Swin-Adventure/Swin-Adventure/Swin-Adventure/obj/Release/net48/Swin-Adventure.pdb

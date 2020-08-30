@@ -1,27 +1,28 @@
 ﻿<Properties StartupConfiguration="{53ED7B9D-A2B4-4A5B-9E2F-05F4E0F78648}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/LookCommandTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Swin-Adventure/Program.cs">
     <Files>
-      <File FileName="Swin-Adventure/GameObject.cs" Line="25" Column="16" />
-      <File FileName="Swin-Adventure/Player.cs" Line="7" Column="86" />
-      <File FileName="Tests/BagTests.cs" Line="18" Column="1" />
-      <File FileName="Tests/LookCommandTests.cs" Line="99" Column="106" />
-      <File FileName="Swin-Adventure/Look Command.cs" Line="21" Column="49" />
-      <File FileName="Swin-Adventure/Program.cs" Line="23" Column="79" />
-      <File FileName="Swin-Adventure/Command.cs" Line="13" Column="6" />
-      <File FileName="Swin-Adventure/IdentifiableObject.cs" Line="1" Column="1" />
-      <File FileName="Swin-Adventure/I Have Inventory.cs" Line="1" Column="1" />
-      <File FileName="Swin-Adventure/Bag.cs" Line="1" Column="1" />
+      <File FileName="Tests/BagTests.cs" Line="12" Column="1" IsPinned="True" />
+      <File FileName="Swin-Adventure/Program.cs" Line="18" Column="55" />
+      <File FileName="Swin-Adventure/Look Command.cs" Line="1" Column="1" />
       <File FileName="Swin-Adventure/Inventory.cs" Line="5" Column="2" />
-      <File FileName="Tests/PlayerTests.cs" Line="14" Column="1" />
+      <File FileName="Swin-Adventure/GameObject.cs" Line="25" Column="16" />
+      <File FileName="Swin-Adventure/Player.cs" Line="36" Column="1" />
+      <File FileName="Tests/LookCommandTests.cs" Line="95" Column="10" />
+      <File FileName="Swin-Adventure/Command.cs" Line="1" Column="1" />
+      <File FileName="Swin-Adventure/IdentifiableObject.cs" Line="1" Column="1" />
+      <File FileName="Tests/LocationTests.cs" Line="60" Column="1" />
+      <File FileName="Swin-Adventure/Location.cs" Line="10" Column="42" />
+      <File FileName="Swin-Adventure/Bag.cs" Line="32" Column="1" />
+      <File FileName="Swin-Adventure/I Have Inventory.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Swin-Adventure" expanded="True">
-            <Node name="Swin-Adventure" expanded="True" />
-            <Node name="Tests" expanded="True">
-              <Node name="LookCommandTests.cs" selected="True" />
+            <Node name="Swin-Adventure" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="Tests" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -30,8 +31,8 @@
           <Node name="Swin-Adventure" expanded="True">
             <Node name="Tests" expanded="True">
               <Node name="Tests" expanded="True">
-                <Node name="BagTests" expanded="True" selected="True" />
-                <Node name="PlayerTests" expanded="True" />
+                <Node name="LookCommandTests" expanded="True" />
+                <Node name="PlayerTests" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>
