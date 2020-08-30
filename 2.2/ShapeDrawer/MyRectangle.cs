@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using SplashKitSDK;
 namespace ShapeDrawer
 {
@@ -39,5 +40,19 @@ namespace ShapeDrawer
             return SplashKit.PointInRectangle(point, SplashKit.RectangleFrom(this.X, this.Y, this.Width, this.Height));
         }
 
+        public override void SaveTo(StreamWriter writer)
+        {
+            writer.WriteLine("Rectangle");
+            base.SaveTo(writer);
+            writer.WriteLine(_width);
+            writer.WriteLine(_height);
+        }
+
+        public override void LoadFrom(StreamReader reader)
+        {
+            base.LoadFrom(reader);
+            _width = reader.ReadInteger();
+            _height = reader.ReadInteger();
+        }
     }
 }

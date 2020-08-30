@@ -1,19 +1,20 @@
 ﻿<Properties StartupConfiguration="{426DA133-96A4-49F0-9041-F2D3D1E326FA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shape.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtensionMethods.cs">
     <Files>
-      <File FileName="Program.cs" Line="75" Column="1" />
+      <File FileName="Program.cs" Line="52" Column="12" />
       <File FileName="Shape.cs" Line="19" Column="1" />
-      <File FileName="Drawing.cs" Line="21" Column="1" />
-      <File FileName="MyRectangle.cs" Line="36" Column="1" />
-      <File FileName="MyCircle.cs" Line="34" Column="1" />
-      <File FileName="MyLine.cs" Line="16" Column="10" />
+      <File FileName="Drawing.cs" />
+      <File FileName="MyRectangle.cs" />
+      <File FileName="MyCircle.cs" />
+      <File FileName="MyLine.cs" />
+      <File FileName="ExtensionMethods.cs" Line="6" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShapeDrawer" expanded="True">
             <Node name="ShapeDrawer" expanded="True">
-              <Node name="Shape.cs" selected="True" />
+              <Node name="ExtensionMethods.cs" selected="True" />
             </Node>
           </Node>
         </State>

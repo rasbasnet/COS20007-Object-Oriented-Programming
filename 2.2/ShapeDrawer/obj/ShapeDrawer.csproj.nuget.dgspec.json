@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/ShapeDrawer.csproj": {}
+    "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/2.2/ShapeDrawer/ShapeDrawer.csproj": {}
   },
   "projects": {
-    "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/ShapeDrawer.csproj": {
+    "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/2.2/ShapeDrawer/ShapeDrawer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/ShapeDrawer.csproj",
+        "projectUniqueName": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/2.2/ShapeDrawer/ShapeDrawer.csproj",
         "projectName": "ShapeDrawer",
-        "projectPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/ShapeDrawer.csproj",
+        "projectPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/2.2/ShapeDrawer/ShapeDrawer.csproj",
         "packagesPath": "/Users/razbasnet/.nuget/packages/",
-        "outputPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/OOP/2.2/ShapeDrawer/obj/",
+        "outputPath": "/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/2.2/ShapeDrawer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/razbasnet/.config/NuGet/NuGet.Config"
