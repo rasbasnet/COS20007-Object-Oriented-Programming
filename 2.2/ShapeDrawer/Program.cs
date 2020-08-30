@@ -14,6 +14,10 @@ namespace ShapeDrawer
 
         public static void Main()
         {
+            Shape.RegisterShape("Rectangle", typeof(MyRectangle));
+            Shape.RegisterShape("Circle", typeof(MyCircle));
+            Shape.RegisterShape("Line", typeof(MyLine));
+
             new Window("Shape Drawer", 800, 600);
 
             ShapeKind kindToAdd = ShapeKind.Circle;
@@ -50,13 +54,14 @@ namespace ShapeDrawer
                     Shape newShape;
                     if (kindToAdd == ShapeKind.Circle)
                     {
-                        newShape = new MyCircle();
+                        newShape = Shape.CreateShape("Circle");
                     } else if (kindToAdd == ShapeKind.Rectangle)
                     {
-                        newShape = new MyRectangle();
-                    } else
+                        newShape = Shape.CreateShape("Rectangle");
+                    }
+                    else
                     {
-                        newShape = new MyLine();
+                        newShape = Shape.CreateShape("Line");
                     }
                     newShape.X = SplashKit.MouseX();
                     newShape.Y = SplashKit.MouseY();

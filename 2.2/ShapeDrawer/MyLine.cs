@@ -31,11 +31,6 @@ namespace ShapeDrawer
             SplashKit.FillCircle(Color.Black, this.X + 100, this.Y, _radius);
         }
 
-        public override void SaveTo(StreamWriter writer)
-        {
-            writer.WriteLine("Line");
-            base.SaveTo(writer);
-        }
         public override void LoadFrom(StreamReader reader)
         {
             base.LoadFrom(reader);

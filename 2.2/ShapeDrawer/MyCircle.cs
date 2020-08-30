@@ -36,7 +36,6 @@ namespace ShapeDrawer
 
         public override void SaveTo(StreamWriter writer)
         {
-            writer.WriteLine("Circle");
             base.SaveTo(writer);
             writer.WriteLine(_radius);
         }
