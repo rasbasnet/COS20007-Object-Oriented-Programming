@@ -93,6 +93,7 @@ namespace ShapeDrawer
                 if (SplashKit.KeyDown(KeyCode.SKey))
                 {
                     drawing.Save("/Users/razbasnet/Desktop/TestDrawing.txt");
+
                 }
 
                 if (SplashKit.MouseClicked(MouseButton.RightButton))

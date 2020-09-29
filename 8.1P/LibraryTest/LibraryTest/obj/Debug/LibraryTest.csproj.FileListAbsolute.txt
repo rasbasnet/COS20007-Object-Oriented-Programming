@@ -1,0 +1,6 @@
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/8.1P/LibraryTest/LibraryTest/bin/Debug/LibraryTest.exe
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/8.1P/LibraryTest/LibraryTest/bin/Debug/LibraryTest.pdb
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/8.1P/LibraryTest/LibraryTest/obj/Debug/LibraryTest.csprojAssemblyReference.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/8.1P/LibraryTest/LibraryTest/obj/Debug/LibraryTest.csproj.CoreCompileInputs.cache
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/8.1P/LibraryTest/LibraryTest/obj/Debug/LibraryTest.exe
+/Users/razbasnet/Documents/Computer Science Degree/Year 1 Uni/Semester 2/COS20007-Object-Oriented-Programming/8.1P/LibraryTest/LibraryTest/obj/Debug/LibraryTest.pdb

@@ -1,20 +1,20 @@
 ﻿<Properties StartupConfiguration="{426DA133-96A4-49F0-9041-F2D3D1E326FA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Drawing.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyCircle.cs">
     <Files>
-      <File FileName="MyCircle.cs" Line="39" Column="1" IsPinned="True" />
-      <File FileName="Program.cs" Line="60" Column="64" />
-      <File FileName="Drawing.cs" Line="142" Column="32" />
-      <File FileName="MyRectangle.cs" Line="45" Column="30" />
-      <File FileName="Shape.cs" Line="60" Column="10" />
-      <File FileName="MyLine.cs" Line="33" Column="1" />
-      <File FileName="ExtensionMethods.cs" Line="3" Column="1" />
+      <File FileName="MyCircle.cs" Line="6" Column="31" IsPinned="True" />
+      <File FileName="Program.cs" Line="57" Column="70" />
+      <File FileName="Shape.cs" Line="22" Column="54" />
+      <File FileName="Drawing.cs" Line="16" Column="10" />
+      <File FileName="MyRectangle.cs" Line="8" Column="1" />
+      <File FileName="MyLine.cs" Line="10" Column="45" />
+      <File FileName="ExtensionMethods.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShapeDrawer" expanded="True">
             <Node name="ShapeDrawer" expanded="True">
-              <Node name="Drawing.cs" selected="True" />
+              <Node name="MyCircle.cs" selected="True" />
             </Node>
           </Node>
         </State>

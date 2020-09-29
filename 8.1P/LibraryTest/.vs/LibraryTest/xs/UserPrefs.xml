@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4DE71425-3F48-4CDB-BCEC-B94A9DDB3093}|Default">
+  <MonoDevelop.Ide.ItemProperties.LibraryTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryTest/Library.cs">
+    <Files>
+      <File FileName="LibraryTest/Program.cs" Line="13" Column="25" />
+      <File FileName="LibraryTest/Library.cs" Line="10" Column="10" />
+      <File FileName="LibraryTest/LibraryResource.cs" Line="8" Column="1" />
+      <File FileName="LibraryTest/Book.cs" Line="10" Column="26" />
+      <File FileName="LibraryTest/Game.cs" Line="13" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryTest" expanded="True">
+            <Node name="LibraryTest" expanded="True">
+              <Node name="Library.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

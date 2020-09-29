@@ -8,7 +8,6 @@ namespace Swin_Adventure
         {
 
             Console.WriteLine("Welcome to Swin Adventure\n");
-
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
 
@@ -16,19 +15,15 @@ namespace Swin_Adventure
             string description = Console.ReadLine();
 
             Player me = new Player(name, description);
-
             Item sword = new Item(new string[] { "sword" }, "sword", "black blade :|");
             Location lake = new Location(new string[] { "location", "lake" }, "Lake", "Frozen blue lake spans across the Sivon Lands");
-            lake.Inventory.Put(sword);
-
             Item shovel = new Item(new string[] { "shovel" }, "bronze shovel", "this is a.... shovel");
 
+            lake.Inventory.Put(sword);
             me.Inventory.Put(shovel);
             me.Location = lake;
 
             Bag bag = new Bag(new string[] { "bag", "BAGGGG" }, "Bag", "this yeah woah yeah is a bag");
-
-
             Item gun = new Item(new string[] { "gun" }, "big gun", "this is a.... gun boom boom");
 
             me.Inventory.Put(bag);
@@ -50,12 +45,7 @@ namespace Swin_Adventure
                     Console.WriteLine("Exiting...");
                     ongoing = false;
                 }
-
             }
-
-
-
-
         }
     }
 }
